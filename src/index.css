@@ -99,3 +99,22 @@
     @apply bg-background text-foreground;
   }
 }
+
+.sphere-app {
+  --bg-app: #f0f2f5;
+  --bg-panel: #ffffff;
+  --bg-sidebar: #ffffff;
+  --bg-hover: #f4f6f8;
+  --bg-active: #e8f1fb;
+  --bg-input: #f0f2f5;
+  --bg-notif: #f0f6ff;
+  --border-color: #e8eaed;
+  --text-main: #1a1c1e;
+  --text-muted: #8a9099;
+  --accent-blue: #2563eb;
+  font-family: "Golos Text", sans-serif;
+}
+
+.font-golos {
+  font-family: "Golos Text", sans-serif;
+}
