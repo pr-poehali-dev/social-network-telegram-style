@@ -12,7 +12,7 @@ import secrets
 import re
 import psycopg2
 
-S = "t_p15862673_social_network_teleg"
+S = "t_p15862673_social_network_teleg"  # schema
 CORS = {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
